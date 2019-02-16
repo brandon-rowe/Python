@@ -1,0 +1,49 @@
+Online Python Compiler
+https://www.pythonanywhere.com/
+https://www.tutorialspoint.com/execute_python_online.php
+Random
+https://www.pythonforbeginners.com/random/how-to-use-the-random-module-in-python
+
+Chapter 9 Activity 1
+
+This is the instruction for Chapter 9 Activity 1.
+
+Chapter9_Activity1.docx
+
+
+
+Chapter 9 Activity 2
+
+Please refer to the code attached for the details of the dice rolling problem.
+
+Dice_TopDown.py
+
+
+
+Chapter 10 Activity 1
+
+Please finish the practice described in the last slide of the chapter slide deck.
+
+
+
+Chapter 10 Actvity 2
+
+Please finish the programming exercise shown in the last slide of Chapter 10_part2. 
+The related code are attached.
+
+roller.py
+
+button.py
+
+dieview.py
+
+graphics.py
+
+
+
+
+Assignment 4
+
+This is the instruction for Assignment 4. 
+It covers the content in Chapter 10.
+Assignment4.docx
