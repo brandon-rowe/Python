@@ -1,0 +1,353 @@
+16:11 ~ $ vi testing
+16:11 ~ $ ls
+Notebook1.ipynb  README.txt  newFile.py  test  testing
+16:11 ~ $ python3 testing
+This program simulates a game of racquetball between two
+18:46 ~ $ ls
+Notebook1.ipynb  README.txt  newFile.py  test  testing
+00:15 ~ $ python3 testing
+00:19 ~ $ python3
+Python 3.7.0 (default, Aug 22 2018, 20:50:05)
+[GCC 5.4.0 20160609] on linux
+Type "help", "copyright", "credits" or "license" for more information.
+>>> x, y, z = 0, 1, 0
+>>> if x == 1 or y == 1 or z == 1"
+  File "<stdin>", line 1
+    if x == 1 or y == 1 or z == 1"
+                                 ^
+SyntaxError: EOL while scanning string literal
+>>> if x == 1 or y == 1 or z == 1:
+... print('passed')
+  File "<stdin>", line 2
+    print('passed')
+        ^
+IndentationError: expected an indented block
+>>>     print('passed')
+  File "<stdin>", line 1
+    print('passed')
+    ^
+IndentationError: unexpected indent
+>>> if x == 1 or y == 1 or z == 1:
+...     print('passed')
+...
+passed
+>>> if 1 in (x,y,z):
+...     print('passed')
+...
+passed
+>>> if x or y or z:
+...     print('passed')
+...
+passed
+>>> if any((x,y,z)):
+...     print('passed')
+...
+passed
+>>> xs = {'a':4, 'b':3, 'c':2, 'd':1}
+>>> sorted(xs.items(), key=lambda x: x[1])
+[('d', 1), ('c', 2), ('b', 3), ('a', 4)]
+>>> import operator
+>>> sorted(xs.items(), key=operator.itemgetter(1))
+[('d', 1), ('c', 2), ('b', 3), ('a', 4)]
+>>> name_for_userid = { 382: "Alice", 590: "Bob", 951: "Dilbert"}
+>>> def greeting(userid):
+...     return "Hi %s!" % name_for_userid.get(userid, "there")
+...
+>>> greeting(382)
+'Hi Alice!'
+>>> greeting(333333)
+'Hi there!'
+>>> gretting(590)
+Traceback (most recent call last):
+  File "<stdin>", line 1, in <module>
+NameError: name 'gretting' is not defined
+>>> greeting(590)
+'Hi Bob!'
+>>> greeting(951)
+'Hi Dilbert!'
+>>>
+
+19:23 ~ $ python3
+Python 3.7.0 (default, Aug 22 2018, 20:50:05)
+[GCC 5.4.0 20160609] on linux
+Type "help", "copyright", "credits" or "license" for more information.
+>>> from collections import namedtuple
+>>> Car = namedtuple('Car', 'color mileage')
+>>> my_car = Car('red', 3812.4)
+>>> my_car.color
+'red'
+>>> my_car.mileage
+3812.4
+>>> my_car
+Car(color='red', mileage=3812.4)
+>>> my_car.color = 'blue'
+Traceback (most recent call last):
+  File "<stdin>", line 1, in <module>
+AttributeError: can't set attribute
+>>> my_mapping = {'a': 23, 'b' : 42, 'c': 0xc0ffee}
+>>> my_mapping
+{'a': 23, 'b': 42, 'c': 12648430}
+>>> import json
+>>> print(json.dumps(my_mapping, indent=4, sort_keys=True))
+{
+    "a": 23,
+    "b": 42,
+    "c": 12648430
+}
+>>> json.dumps({all: 'yup'})
+Traceback (most recent call last):
+  File "<stdin>", line 1, in <module>
+  File "/usr/lib/python3.7/json/__init__.py", line 231, in dumps
+    return _default_encoder.encode(obj)
+  File "/usr/lib/python3.7/json/encoder.py", line 199, in encode
+    chunks = self.iterencode(o, _one_shot=True)
+  File "/usr/lib/python3.7/json/encoder.py", line 257, in iterencode
+    return _iterencode(o, 0)
+TypeError: keys must be str, int, float, bool or None, not builtin_function_or_method
+>>> import timeit
+>>> timeit.timeit('"-".join([str(n) for n in range(100)])',number=10000)
+0.3003140790387988
+>>> timeit.timeit('"-".join([str(n) for n in range(100)])',number=10000)
+0.3412363780080341
+>>> timeit.timeit('"-".join(map(str, range(100)))', number=10000)
+0.2634685799712315
+>>>
+
+>>> a, b = 23, 42
+>>> print(a)
+23
+>>> print(b)
+42
+>>> a, b = b, a
+>>> print(a)
+42
+>>> print(b)
+23
+>>> a = [1,2,3]
+>>> b = a
+>>> a is b
+True
+>>> a == b
+True
+>>> c = list(a)
+>>> a == c
+True
+>>> a is c
+False
+>>>
+
+def dispatch_if(operator, x, y):
+    if operator == 'add':
+        return x + y
+    elif operator == 'sub':
+        return x - y
+    elif operator == 'mul':
+        return x * y
+    elif operator == 'div':
+        return x / y
+    else:
+        return None
+
+
+
+>>> def dispatch_if(operator, x, y):
+...     if operator == 'add':
+...             return x + y
+...     elif operator == 'sub':
+...             return x - y
+...     elif operator == 'mul':
+...             return x * y
+...     elif operator == 'div':
+...             return x / y
+...     else:
+...             return none
+...
+>>> def dispatch_dict(operator, x, y):
+...     return{
+... 'add':lambda: x + y, 'sub':lambda: x - y, 'mul':lambda:x*y, 'dibv':lambda:x/y
+...     }.get(operator, lambda: None)()
+...
+>>> dispatch_if('mul', 2, 8)
+16
+>>> dispath_dict('div', 236, 2)
+>>> dispatch_dict('mul', 2, 8)
+16
+
+
+>>> class Numbers:
+...     def __init__(self, x, y):
+...             self.x = x
+...             self.y = y
+...
+>>> data = Numbers(12, 13)
+>>> data.x
+12
+>>> data.y
+13
+>>>
+
+
+ls
+main()
+def main():
+A = float(input("Please enter the probablity of player A: "))
+B = float(input("Please enter the probablity of player B: "))
+90
+print(B)
+quit()
+x, y, z = 0, 1, 0
+if x == 1 or y == 1 or z == 1"
+if x == 1 or y == 1 or z == 1:
+print('passed')
+	print('passed')
+if x == 1 or y == 1 or z == 1:
+	print('passed')
+if 1 in (x,y,z):
+	print('passed')
+if x or y or z:
+	print('passed')
+if any((x,y,z)):
+	print('passed')
+xs = {'a':4, 'b':3, 'c':2, 'd':1}
+sorted(xs.items(), key=lambda x: x[1])
+import operator
+sorted(xs.items(), key=operator.itemgetter(1))
+name_for_userid = { 382: "Alice", 590: "Bob", 951: "Dilbert"}
+def greeting(userid):
+	return "Hi %s!" % name_for_userid.get(userid, "there")
+greeting(382)
+greeting(333333)
+gretting(590)
+greeting(590)
+greeting(951)
+quit()
+from collections import namedtuple
+Car = namedtuple('Car', 'color mileage')
+my_car = Car('red', 3812.4)
+my_car.color
+my_car.mileage
+my_car
+my_car.color = 'blue'
+my_mapping = {'a': 23, 'b' : 42, 'c': 0xc0ffee}
+my_mapping
+import json
+print(json.dumps(my_mapping, indent=4, sort_keys=True))
+json.dumps({all: 'yup'})
+import timeit
+timeit.timeit('"-".join([str(n) for n in range(100)])',number=10000)
+timeit.timeit('"-".join(map(str, range(100)))', number=10000)
+a, b = 23, 42
+print(a)
+print(b)
+a, b = b, a
+print(a)
+print(b)
+a = [1,2,3]
+b = a
+a is b
+a == b
+c = list(a)
+a == c
+a is c
+clear
+quit()
+def myFunc(a,b):
+	return a + b
+funcs = [myFunc]
+funcs = [myFunc]\
+funcs = [myFunc]
+funcs[0]
+quite
+quit()
+def myFunc(a,b):
+quit()
+def dispatch_if(operator, x, y):
+	if operator == 'add':
+		return x + y
+	if operator == 'sub':
+		return x + yield
+quit()
+def dispatch_if(operator, x, y):
+	if operator == 'add':
+		return x + y
+	if operator == 'sub':
+		return x - y
+	if operator == 'mul':
+		return x * y
+	if operator == 'div':
+		return x / y
+quit()
+def dispatch_if(operator, x, y):
+	if operator == 'add':
+		return x + y
+	elif operator == 'sub':
+		return x - y
+	elif operator == 'mul':
+		return x * y
+	elif operator == 'div':
+		return x / y
+	else:
+		return none
+def dispatch_dict(operator, x, y):
+	return{
+'add':lambda: x + y, 'sub':lambda: x - y, 'mul':lambda:x*y, 'dibv':lambda:x/y
+	}.get(operator, lambda: None)()
+dispatch_if('mul', 2, 8)
+dispatch_dict('div', 236, 2)
+dispatch_dict('mul', 2, 8)
+dispatch_if('unknown', 2, 8)
+dispatch_dict('unknown', 2, 8)
+...     elif operator == 'sub':
+...             return x - y
+...     elif operator == 'mul':
+...             return x * y
+...     elif operator == 'div':
+...             return x / y
+...     else:
+...             return none
+...
+>>> def dispatch_dict(operator, x, y):
+...     return{
+... 'add':lambda: x + y, 'sub':lambda: x - y, 'mul':lambda:x*y, 'dibv':lambda:x/y
+...     }.get(operator, lambda: None)()
+...
+>>> dispatch_if('mul', 2, 8)
+16
+>>> dispatch_dict('div', 236, 2)
+>>> dispatch_dict('mul', 2, 8)
+16
+>>> dispatch_if('unknown', 2, 8)
+Traceback (most recent call last):
+  File "<stdin>", line 1, in <module>
+  File "<stdin>", line 11, in dispatch_if
+NameError: name 'none' is not defined
+>>> dispatch_dict('unknown', 2, 8)
+>>> quit()
+clear
+quit()
+vals = [ expression for value in collection if condition ]
+quit()
+class Numbers:
+	def __init__(self, x , y):
+		self.x = x
+		self.y = y
+class Numbers:
+	def __init__(self, x, y):
+		self.x = x
+		self.y = y
+data = Numbers(12, 13)
+data.x
+data.y
+quit()
+class Numbers:
+	def __init__(self, x, y):
+		self.x = x
+		self.y = y
+	def add(x, y):
+		a = x + y
+		return a
+x = Numbers(10, 15)
+x.add()
+quit()
+_pa_run(u'/home/browe47/ch12.py')
+quit()

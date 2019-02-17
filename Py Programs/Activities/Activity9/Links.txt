@@ -1,0 +1,13 @@
+Python:
+
+https://realpython.com/python-data-types/
+
+https://www.dataquest.io/blog/jupyter-notebook-tutorial/
+
+https://www.python-course.eu/python3_class_and_instance_attributes.php
+
+https://www.programiz.com/python-programming/property
+
+https://anaconda.org/StevenCHowell/python-class-demonstration/notebook
+
+
