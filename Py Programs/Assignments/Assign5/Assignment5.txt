@@ -1,0 +1,24 @@
+CSCI 236 Python Programming Fall 2018
+
+Assignment 5
+
+
+1.	Give the gpasort program a graphical interface. You should have Entrys for the input and output file names and a button for each sorting order. Allow the user to sort by gpa and sort by credit hours. Add a button for quitting. Input file: student.dat is attached. Write the sorted students info into a output file. 
+
+2.	Write and test a function shuffle (my List ) that scrambles a list into a random order, like shuffling a deck of cards.
+
+3.	Programming exercise 9 from Chapter 11 textbook Page 413. 
+
+4.	Programming exercise 9 from Chapter 11 textbook Page 413. Input file: card.txt is attached. 
+
+
+
+
+
+
+
+
+
+
+
+
