@@ -1,1 +1,0 @@
-Please finish the programming exercise shown in the last slide of Chapter 10_part2. The related code are attached.
