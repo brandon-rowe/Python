@@ -1,0 +1,38 @@
+CSCI 236 Python Programming Fall 2018
+
+
+Chapter 8 Activity 2
+
+
+
+
+1.	Write a Python program to replace last value of tuples in a list.
+              Sample list: [(10, 20, 40), (40, 50, 60), (70, 80, 90)] 
+               Expected Output: [(10, 20, 100), (40, 50, 100), (70, 80, 100)]
+
+             Hint: in python tuple, concatenation can be performed as (1, 2) + (3,) = (1, 2, 3) since
+              Tuple is a sequence like string.
+
+
+2.	Write a Python program to sort a tuple by its float element in decreasing order. 
+
+            Sample data: [('item1', '12.20'), ('item2', '15.10'), ('item3', '24.5')] 
+            Expected Output: [('item3', '24.5'), ('item2', '15.10'), ('item1', '12.20')]
+
+
+3.	Write a Python program to create an intersection of sets.
+
+Sample list: ['Green', 'Blue'] intersect with ['Blue', 'Yellow']
+Expected Output : {‘Blue’}
+
+
+
+4.	Write a Python program to get the top three items in a shop.
+
+Sample data: {'item1': 45.50, 'item2':35, 'item3': 41.30, 'item4':55, 'item5': 24}
+Expected Output: 
+item4 55
+item1 45.5
+item3 41.3
+
+
