@@ -4,5 +4,5 @@ I would usually get an idea or mathematical expression and create my own definit
 
 Brave: Links
 
-<a href="https://community.brave.com/t/about-the-contributing-category/1891">Contributing to Brave</a>
-<a href="https://github.com/brave">Brave Github</a>
+<a href="https://community.brave.com/t/about-the-contributing-category/1891"> Contributing to Brave</a>
+<a href="https://github.com/brave"> Brave Github</a>
