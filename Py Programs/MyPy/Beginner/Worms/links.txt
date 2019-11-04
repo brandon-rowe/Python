@@ -1,0 +1,7 @@
+https://stackoverflow.com/questions/5057170/best-encryption-for-large-amounts-of-data-speed-is-essential
+
+https://www.researchgate.net/publication/316789478_Performance_Analysis_of_Data_Encryption_Algorithms_for_Secure_Data_Transmission
+
+https://docs.python-guide.org/scenarios/crypto/
+
+https://cryptography.io/en/latest/
