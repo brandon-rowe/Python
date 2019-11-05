@@ -19,42 +19,57 @@ def write(data):
 	i=0
 	j=0
 	k=0
-	kronus0_start = time.time()
+	txt0_start = time.time()
 	while i < 10000:
-	        i += 1
-	        fileName = "kronus0.txt"
-	        outFile = open(fileName, 'a+')
-	        outFile.write(data)
-	outFile.close()
-	kronus0_end = time.time()
-	kronus1_start = time.time()
-	while j < 100000:
-	        j += 1
-	        fileName = "kronus1.txt"
-	        outFile = open(fileName, 'a+')
-	        outFile.write(data)
-	outFile.close()
-	kronus1_end = time.time()
-	kronus2_start = time.time()
-	while k < 1000000:
-		k += 1
-		fileName = "kronus2.txt"
+		i += 1
+		fileName = "txt0.txt"
 		outFile = open(fileName, 'a+')
 		outFile.write(data)
 	outFile.close()
-	kronus2_end = time.time()
-	printRes(kronus0_start, kronus0_end, kronus1_start, kronus1_end, kronus2_start, kronus2_end)
+	txt0_end = time.time()
+	txt1_start = time.time()
+	while j < 100000:
+		j += 1
+		fileName = "txt1.txt"
+		outFile = open(fileName, 'a+')
+		outFile.write(data)
+		if j == 25000:
+			print("25000")
+		elif j == 50000:
+			print("50000")
+		elif j == 75000:
+			print("75000")
+	outFile.close()
+	txt1_end = time.time()
+	txt2_start = time.time()
+	while k < 500000:
+		k += 1
+		fileName = "txt2.txt"
+		outFile = open(fileName, 'a+')
+		outFile.write(data)
+		if k == 50000:
+			print("50000")
+		elif k == 100000:
+			print("100000")
+		elif k == 250000:
+			print("250000")
+		elif k == 350000:
+			print("350000")
+	outFile.close()
+	txt2_end = time.time()
+	printRes(txt0_start, txt0_end, txt1_start, txt1_end, txt2_start, txt2_end)
+	
 
-def printRes(kronus0_start, kronus0_end, kronus1_start, kronus1_end, kronus2_start, kronus2_end):
-	print("--- Kronus0 start %s seconds ---" % (kronus0_start))
-	print("--- Kronus0 end %s seconds ---" % (kronus0_end))
-	print("--- Kronus0 time lapse %s seconds ---" % (kronus0_end - kronus0_start))
-	print("--- Kronus1 start %s seconds ---" % (kronus1_start))
-	print("--- Kronus1 end %s seconds ---" % (kronus1_end))
-	print("--- Kronus1 time lapse %s seconds ---" % (kronus1_end - kronus1_start))
-	print("--- Kronus2 start %s seconds ---" % (kronus2_start))
-	print("--- Kronus2 end %s seconds ---" % (kronus2_end))
-	print("--- Kronus2 time lapse %s seconds ---" % (kronus2_end - kronus2_start))
+def printRes(txt0_start, txt0_end, txt1_start, txt1_end, txt2_start, txt2_end):
+	#print("--- txt0 start %s seconds ---" % (txt0_start))
+	#print("--- txt0 end %s seconds ---" % (txt0_end))
+	print("--- txt0 time lapse %s seconds ---" % (txt0_end - txt0_start))
+	#print("--- txt1 start %s seconds ---" % (txt1_start))
+	#print("--- txt1 end %s seconds ---" % (txt1_end))
+	print("--- txt1 time lapse %s seconds ---" % (txt1_end - txt1_start))
+	#print("--- txt2 start %s seconds ---" % (txt2_start))
+	#print("--- txt2 end %s seconds ---" % (txt2_end))
+	print("--- txt2 time lapse %s seconds ---" % (txt2_end - txt2_start))
 	
 	
 main()
