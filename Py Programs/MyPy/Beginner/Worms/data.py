@@ -20,18 +20,18 @@ def write(data):
 	j=0
 	k=0
 	txt0_start = time.time()
+	fileName = "txt0.txt"
+	outFile = open(fileName, 'a+')
 	while i < 10000:
 		i += 1
-		fileName = "txt0.txt"
-		outFile = open(fileName, 'a+')
 		outFile.write(data)
 	outFile.close()
 	txt0_end = time.time()
 	txt1_start = time.time()
+	fileName = "txt1.txt"
+	outFile = open(fileName, 'a+')
 	while j < 100000:
 		j += 1
-		fileName = "txt1.txt"
-		outFile = open(fileName, 'a+')
 		outFile.write(data)
 		if j == 25000:
 			print("25000")
@@ -42,10 +42,10 @@ def write(data):
 	outFile.close()
 	txt1_end = time.time()
 	txt2_start = time.time()
+	fileName = "txt2.txt"
+	outFile = open(fileName, 'a+')
 	while k < 500000:
 		k += 1
-		fileName = "txt2.txt"
-		outFile = open(fileName, 'a+')
 		outFile.write(data)
 		if k == 50000:
 			print("50000")
@@ -61,14 +61,14 @@ def write(data):
 	
 
 def printRes(txt0_start, txt0_end, txt1_start, txt1_end, txt2_start, txt2_end):
-	#print("--- txt0 start %s seconds ---" % (txt0_start))
-	#print("--- txt0 end %s seconds ---" % (txt0_end))
+	print("--- txt0 start %s seconds ---" % (txt0_start))
+	print("--- txt0 end %s seconds ---" % (txt0_end))
 	print("--- txt0 time lapse %s seconds ---" % (txt0_end - txt0_start))
-	#print("--- txt1 start %s seconds ---" % (txt1_start))
-	#print("--- txt1 end %s seconds ---" % (txt1_end))
+	print("--- txt1 start %s seconds ---" % (txt1_start))
+	print("--- txt1 end %s seconds ---" % (txt1_end))
 	print("--- txt1 time lapse %s seconds ---" % (txt1_end - txt1_start))
-	#print("--- txt2 start %s seconds ---" % (txt2_start))
-	#print("--- txt2 end %s seconds ---" % (txt2_end))
+	print("--- txt2 start %s seconds ---" % (txt2_start))
+	print("--- txt2 end %s seconds ---" % (txt2_end))
 	print("--- txt2 time lapse %s seconds ---" % (txt2_end - txt2_start))
 	
 	
