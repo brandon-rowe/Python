@@ -1,0 +1,2 @@
+Comparison of AES and RSA encryption algorithms for speed and efficiency.
+Speed is testing with 3 different input files of different sizes. The program calculates how much time it takes to encrypt each file for a time-lapse result. Efficiency is based on the strength of the encryption.

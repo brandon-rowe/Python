@@ -1,0 +1,102 @@
+Encrypting txt0
+
+Start time: 1573433356.369463
+End Time: 1573433356.429355
+Time Lapsed: 0.05989193916320801
+Encrypting txt1
+
+Start time: 1573433356.718802
+End Time: 1573433356.864843
+Time Lapsed: 0.1460409164428711
+Encrypting txt2
+
+Start time: 1573433357.154482
+End Time: 1573433357.546941
+Time Lapsed: 0.3924591541290283
+Encrypting txt0
+
+Start time: 1573434379.091367
+End Time: 1573434379.149854
+Time Lapsed: 0.0584869384765625
+Encrypting txt1
+
+Start time: 1573434379.383892
+End Time: 1573434379.5306392
+Time Lapsed: 0.14674711227416992
+Encrypting txt2
+
+Start time: 1573434379.738879
+End Time: 1573434380.114642
+Time Lapsed: 0.375762939453125
+Encrypting txt0
+
+Start time: 1573434514.565495
+End Time: 1573434514.625278
+Time Lapsed: 0.059782981872558594
+
+Encrypting txt1
+
+Start time: 1573434514.866103
+End Time: 1573434515.015679
+Time Lapsed: 0.14957594871520996
+
+Encrypting txt2
+
+Start time: 1573434515.21558
+End Time: 1573434515.619958
+Time Lapsed: 0.40437793731689453
+
+Encrypting txt0
+
+Start time: 1575261356.846364
+End Time: 1575261357.592911
+Time Lapsed: 0.7465469837188721
+
+Encrypting txt1
+
+Start time: 1575261357.592984
+End Time: 1575261357.636904
+Time Lapsed: 0.043920040130615234
+
+Encrypting txt2
+
+Start time: 1575261357.636988
+End Time: 1575261357.840341
+Time Lapsed: 0.2033531665802002
+
+Encrypting txt0
+
+Start time: 1575261731.642196
+End Time: 1575261731.702431
+Time Lapsed: 0.060235023498535156
+
+Encrypting txt1
+
+Start time: 1575261731.702566
+End Time: 1575261731.737598
+Time Lapsed: 0.035032033920288086
+
+Encrypting txt2
+
+Start time: 1575261731.737694
+End Time: 1575261731.928139
+Time Lapsed: 0.1904449462890625
+
+Encrypting txt0
+
+Start time: 1575477542.089408
+End Time: 1575477542.969512
+Time Lapsed: 0.8801040649414062
+
+Encrypting txt1
+
+Start time: 1575477542.969619
+End Time: 1575477543.009723
+Time Lapsed: 0.040103912353515625
+
+Encrypting txt2
+
+Start time: 1575477543.0098119
+End Time: 1575477543.1837
+Time Lapsed: 0.1738882064819336
+
