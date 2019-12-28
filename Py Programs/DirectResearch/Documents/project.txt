@@ -1,0 +1,16 @@
+Data will be network traffic.
+Bro will monitor live traffic, Bro will output log files into working directory.
+We will be analyzing the http log file obtained from Bro.
+
+Machine Learning with Bat. Use Bat to create meaningful data instead of raw data. Transform http log file from Bro into python-based machine learning library can handle.
+
+Visualization. Create a meaningful representation of the data. Charts and graphs. 
+
+
+http://www.webdesigndev.com/css-jquery-charts-graphs/
+
+https://codepen.io/miyavibest/pen/FoAhl
+
+chrome-extension://oemmndcbldboiebfnladdacbdfmadadm/https://www.sans.org/reading-room/whitepapers/detection/detecting-malicious-smb-activity-bro-37472
+
+https://www.google.com/imgres?imgurl=x-raw-image%3A%2F%2F%2F1db9860d1bd1482a908dae9e02b3e6d024476b2721340beb9ad21f66383e0a43&imgrefurl=https%3A%2F%2Fwww.sans.org%2Freading-room%2Fwhitepapers%2Fdetection%2Fdetecting-malicious-smb-activity-bro-37472&docid=7eRrssb4I3di2M&tbnid=KkjRGw2GuR1OyM%3A&vet=1&w=573&h=358&bih=884&biw=1024&ved=0ahUKEwizppWrpIziAhVsm-AKHWWiDAIQMwhAKAIwAg&iact=c&ictx=1
