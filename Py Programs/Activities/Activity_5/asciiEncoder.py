@@ -1,4 +1,3 @@
-# text2numbers.py
 # Encoder
 #     A program to convert a textual message into a sequence of
 #         numbers, utlilizing the underlying Unicode encoding.

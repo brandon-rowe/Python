@@ -1,4 +1,3 @@
-# numbers2text.py
 #     A program to convert a sequence of Unicode numbers into
 #         a string of text.
 
