@@ -1,0 +1,1075 @@
+<tbody>
+ <tr class="cmc-table-row" style="display:table-row">
+  <td class="cmc-table__cell cmc-table__cell--sticky cmc-table__cell--left">
+   <div class="">
+    Mar 10, 2020
+   </div>
+  </td>
+  <td class="cmc-table__cell cmc-table__cell--right">
+   <div class="">
+    7,922.15
+   </div>
+  </td>
+  <td class="cmc-table__cell cmc-table__cell--right">
+   <div class="">
+    8,136.95
+   </div>
+  </td>
+  <td class="cmc-table__cell cmc-table__cell--right">
+   <div class="">
+    7,814.76
+   </div>
+  </td>
+  <td class="cmc-table__cell cmc-table__cell--right">
+   <div class="">
+    7,909.73
+   </div>
+  </td>
+  <td class="cmc-table__cell cmc-table__cell--right">
+   <div class="">
+    42,213,940,994
+   </div>
+  </td>
+  <td class="cmc-table__cell cmc-table__cell--right">
+   <div class="">
+    144,465,567,734
+   </div>
+  </td>
+ </tr>
+ <tr class="cmc-table-row" style="display:table-row">
+  <td class="cmc-table__cell cmc-table__cell--sticky cmc-table__cell--left">
+   <div class="">
+    Mar 09, 2020
+   </div>
+  </td>
+  <td class="cmc-table__cell cmc-table__cell--right">
+   <div class="">
+    8,111.15
+   </div>
+  </td>
+  <td class="cmc-table__cell cmc-table__cell--right">
+   <div class="">
+    8,177.79
+   </div>
+  </td>
+  <td class="cmc-table__cell cmc-table__cell--right">
+   <div class="">
+    7,690.10
+   </div>
+  </td>
+  <td class="cmc-table__cell cmc-table__cell--right">
+   <div class="">
+    7,923.64
+   </div>
+  </td>
+  <td class="cmc-table__cell cmc-table__cell--right">
+   <div class="">
+    46,936,995,808
+   </div>
+  </td>
+  <td class="cmc-table__cell cmc-table__cell--right">
+   <div class="">
+    144,706,353,758
+   </div>
+  </td>
+ </tr>
+ <tr class="cmc-table-row" style="display:table-row">
+  <td class="cmc-table__cell cmc-table__cell--sticky cmc-table__cell--left">
+   <div class="">
+    Mar 08, 2020
+   </div>
+  </td>
+  <td class="cmc-table__cell cmc-table__cell--right">
+   <div class="">
+    8,908.21
+   </div>
+  </td>
+  <td class="cmc-table__cell cmc-table__cell--right">
+   <div class="">
+    8,914.34
+   </div>
+  </td>
+  <td class="cmc-table__cell cmc-table__cell--right">
+   <div class="">
+    8,105.25
+   </div>
+  </td>
+  <td class="cmc-table__cell cmc-table__cell--right">
+   <div class="">
+    8,108.12
+   </div>
+  </td>
+  <td class="cmc-table__cell cmc-table__cell--right">
+   <div class="">
+    39,973,102,121
+   </div>
+  </td>
+  <td class="cmc-table__cell cmc-table__cell--right">
+   <div class="">
+    148,060,284,561
+   </div>
+  </td>
+ </tr>
+ <tr class="cmc-table-row" style="display:table-row">
+  <td class="cmc-table__cell cmc-table__cell--sticky cmc-table__cell--left">
+   <div class="">
+    Mar 07, 2020
+   </div>
+  </td>
+  <td class="cmc-table__cell cmc-table__cell--right">
+   <div class="">
+    9,121.60
+   </div>
+  </td>
+  <td class="cmc-table__cell cmc-table__cell--right">
+   <div class="">
+    9,163.22
+   </div>
+  </td>
+  <td class="cmc-table__cell cmc-table__cell--right">
+   <div class="">
+    8,890.74
+   </div>
+  </td>
+  <td class="cmc-table__cell cmc-table__cell--right">
+   <div class="">
+    8,909.95
+   </div>
+  </td>
+  <td class="cmc-table__cell cmc-table__cell--right">
+   <div class="">
+    36,216,930,370
+   </div>
+  </td>
+  <td class="cmc-table__cell cmc-table__cell--right">
+   <div class="">
+    162,684,945,903
+   </div>
+  </td>
+ </tr>
+ <tr class="cmc-table-row" style="display:table-row">
+  <td class="cmc-table__cell cmc-table__cell--sticky cmc-table__cell--left">
+   <div class="">
+    Mar 06, 2020
+   </div>
+  </td>
+  <td class="cmc-table__cell cmc-table__cell--right">
+   <div class="">
+    9,078.31
+   </div>
+  </td>
+  <td class="cmc-table__cell cmc-table__cell--right">
+   <div class="">
+    9,167.70
+   </div>
+  </td>
+  <td class="cmc-table__cell cmc-table__cell--right">
+   <div class="">
+    9,032.08
+   </div>
+  </td>
+  <td class="cmc-table__cell cmc-table__cell--right">
+   <div class="">
+    9,122.55
+   </div>
+  </td>
+  <td class="cmc-table__cell cmc-table__cell--right">
+   <div class="">
+    40,826,885,651
+   </div>
+  </td>
+  <td class="cmc-table__cell cmc-table__cell--right">
+   <div class="">
+    166,548,261,960
+   </div>
+  </td>
+ </tr>
+ <tr class="cmc-table-row" style="display:table-row">
+  <td class="cmc-table__cell cmc-table__cell--sticky cmc-table__cell--left">
+   <div class="">
+    Mar 05, 2020
+   </div>
+  </td>
+  <td class="cmc-table__cell cmc-table__cell--right">
+   <div class="">
+    8,760.29
+   </div>
+  </td>
+  <td class="cmc-table__cell cmc-table__cell--right">
+   <div class="">
+    9,142.05
+   </div>
+  </td>
+  <td class="cmc-table__cell cmc-table__cell--right">
+   <div class="">
+    8,757.25
+   </div>
+  </td>
+  <td class="cmc-table__cell cmc-table__cell--right">
+   <div class="">
+    9,078.76
+   </div>
+  </td>
+  <td class="cmc-table__cell cmc-table__cell--right">
+   <div class="">
+    39,698,054,597
+   </div>
+  </td>
+  <td class="cmc-table__cell cmc-table__cell--right">
+   <div class="">
+    165,731,679,918
+   </div>
+  </td>
+ </tr>
+ <tr class="cmc-table-row" style="display:table-row">
+  <td class="cmc-table__cell cmc-table__cell--sticky cmc-table__cell--left">
+   <div class="">
+    Mar 04, 2020
+   </div>
+  </td>
+  <td class="cmc-table__cell cmc-table__cell--right">
+   <div class="">
+    8,788.54
+   </div>
+  </td>
+  <td class="cmc-table__cell cmc-table__cell--right">
+   <div class="">
+    8,843.37
+   </div>
+  </td>
+  <td class="cmc-table__cell cmc-table__cell--right">
+   <div class="">
+    8,712.43
+   </div>
+  </td>
+  <td class="cmc-table__cell cmc-table__cell--right">
+   <div class="">
+    8,755.25
+   </div>
+  </td>
+  <td class="cmc-table__cell cmc-table__cell--right">
+   <div class="">
+    34,746,706,368
+   </div>
+  </td>
+  <td class="cmc-table__cell cmc-table__cell--right">
+   <div class="">
+    159,807,857,328
+   </div>
+  </td>
+ </tr>
+ <tr class="cmc-table-row" style="display:table-row">
+  <td class="cmc-table__cell cmc-table__cell--sticky cmc-table__cell--left">
+   <div class="">
+    Mar 03, 2020
+   </div>
+  </td>
+  <td class="cmc-table__cell cmc-table__cell--right">
+   <div class="">
+    8,865.39
+   </div>
+  </td>
+  <td class="cmc-table__cell cmc-table__cell--right">
+   <div class="">
+    8,901.60
+   </div>
+  </td>
+  <td class="cmc-table__cell cmc-table__cell--right">
+   <div class="">
+    8,704.99
+   </div>
+  </td>
+  <td class="cmc-table__cell cmc-table__cell--right">
+   <div class="">
+    8,787.79
+   </div>
+  </td>
+  <td class="cmc-table__cell cmc-table__cell--right">
+   <div class="">
+    42,386,715,821
+   </div>
+  </td>
+  <td class="cmc-table__cell cmc-table__cell--right">
+   <div class="">
+    160,383,579,416
+   </div>
+  </td>
+ </tr>
+ <tr class="cmc-table-row" style="display:table-row">
+  <td class="cmc-table__cell cmc-table__cell--sticky cmc-table__cell--left">
+   <div class="">
+    Mar 02, 2020
+   </div>
+  </td>
+  <td class="cmc-table__cell cmc-table__cell--right">
+   <div class="">
+    8,563.26
+   </div>
+  </td>
+  <td class="cmc-table__cell cmc-table__cell--right">
+   <div class="">
+    8,921.31
+   </div>
+  </td>
+  <td class="cmc-table__cell cmc-table__cell--right">
+   <div class="">
+    8,532.63
+   </div>
+  </td>
+  <td class="cmc-table__cell cmc-table__cell--right">
+   <div class="">
+    8,869.67
+   </div>
+  </td>
+  <td class="cmc-table__cell cmc-table__cell--right">
+   <div class="">
+    42,857,674,409
+   </div>
+  </td>
+  <td class="cmc-table__cell cmc-table__cell--right">
+   <div class="">
+    161,861,167,745
+   </div>
+  </td>
+ </tr>
+ <tr class="cmc-table-row" style="display:table-row">
+  <td class="cmc-table__cell cmc-table__cell--sticky cmc-table__cell--left">
+   <div class="">
+    Mar 01, 2020
+   </div>
+  </td>
+  <td class="cmc-table__cell cmc-table__cell--right">
+   <div class="">
+    8,599.76
+   </div>
+  </td>
+  <td class="cmc-table__cell cmc-table__cell--right">
+   <div class="">
+    8,726.80
+   </div>
+  </td>
+  <td class="cmc-table__cell cmc-table__cell--right">
+   <div class="">
+    8,471.21
+   </div>
+  </td>
+  <td class="cmc-table__cell cmc-table__cell--right">
+   <div class="">
+    8,562.45
+   </div>
+  </td>
+  <td class="cmc-table__cell cmc-table__cell--right">
+   <div class="">
+    35,349,164,300
+   </div>
+  </td>
+  <td class="cmc-table__cell cmc-table__cell--right">
+   <div class="">
+    156,238,987,740
+   </div>
+  </td>
+ </tr>
+ <tr class="cmc-table-row" style="display:table-row">
+  <td class="cmc-table__cell cmc-table__cell--sticky cmc-table__cell--left">
+   <div class="">
+    Feb 29, 2020
+   </div>
+  </td>
+  <td class="cmc-table__cell cmc-table__cell--right">
+   <div class="">
+    8,671.21
+   </div>
+  </td>
+  <td class="cmc-table__cell cmc-table__cell--right">
+   <div class="">
+    8,775.63
+   </div>
+  </td>
+  <td class="cmc-table__cell cmc-table__cell--right">
+   <div class="">
+    8,599.51
+   </div>
+  </td>
+  <td class="cmc-table__cell cmc-table__cell--right">
+   <div class="">
+    8,599.51
+   </div>
+  </td>
+  <td class="cmc-table__cell cmc-table__cell--right">
+   <div class="">
+    35,792,392,544
+   </div>
+  </td>
+  <td class="cmc-table__cell cmc-table__cell--right">
+   <div class="">
+    156,895,988,084
+   </div>
+  </td>
+ </tr>
+ <tr class="cmc-table-row" style="display:table-row">
+  <td class="cmc-table__cell cmc-table__cell--sticky cmc-table__cell--left">
+   <div class="">
+    Feb 28, 2020
+   </div>
+  </td>
+  <td class="cmc-table__cell cmc-table__cell--right">
+   <div class="">
+    8,788.73
+   </div>
+  </td>
+  <td class="cmc-table__cell cmc-table__cell--right">
+   <div class="">
+    8,890.46
+   </div>
+  </td>
+  <td class="cmc-table__cell cmc-table__cell--right">
+   <div class="">
+    8,492.93
+   </div>
+  </td>
+  <td class="cmc-table__cell cmc-table__cell--right">
+   <div class="">
+    8,672.46
+   </div>
+  </td>
+  <td class="cmc-table__cell cmc-table__cell--right">
+   <div class="">
+    44,605,450,443
+   </div>
+  </td>
+  <td class="cmc-table__cell cmc-table__cell--right">
+   <div class="">
+    158,211,707,019
+   </div>
+  </td>
+ </tr>
+ <tr class="cmc-table-row" style="display:table-row">
+  <td class="cmc-table__cell cmc-table__cell--sticky cmc-table__cell--left">
+   <div class="">
+    Feb 27, 2020
+   </div>
+  </td>
+  <td class="cmc-table__cell cmc-table__cell--right">
+   <div class="">
+    8,825.09
+   </div>
+  </td>
+  <td class="cmc-table__cell cmc-table__cell--right">
+   <div class="">
+    8,932.89
+   </div>
+  </td>
+  <td class="cmc-table__cell cmc-table__cell--right">
+   <div class="">
+    8,577.20
+   </div>
+  </td>
+  <td class="cmc-table__cell cmc-table__cell--right">
+   <div class="">
+    8,784.49
+   </div>
+  </td>
+  <td class="cmc-table__cell cmc-table__cell--right">
+   <div class="">
+    45,470,195,695
+   </div>
+  </td>
+  <td class="cmc-table__cell cmc-table__cell--right">
+   <div class="">
+    160,238,496,932
+   </div>
+  </td>
+ </tr>
+ <tr class="cmc-table-row" style="display:table-row">
+  <td class="cmc-table__cell cmc-table__cell--sticky cmc-table__cell--left">
+   <div class="">
+    Feb 26, 2020
+   </div>
+  </td>
+  <td class="cmc-table__cell cmc-table__cell--right">
+   <div class="">
+    9,338.29
+   </div>
+  </td>
+  <td class="cmc-table__cell cmc-table__cell--right">
+   <div class="">
+    9,354.78
+   </div>
+  </td>
+  <td class="cmc-table__cell cmc-table__cell--right">
+   <div class="">
+    8,704.43
+   </div>
+  </td>
+  <td class="cmc-table__cell cmc-table__cell--right">
+   <div class="">
+    8,820.52
+   </div>
+  </td>
+  <td class="cmc-table__cell cmc-table__cell--right">
+   <div class="">
+    50,420,050,762
+   </div>
+  </td>
+  <td class="cmc-table__cell cmc-table__cell--right">
+   <div class="">
+    160,879,489,024
+   </div>
+  </td>
+ </tr>
+ <tr class="cmc-table-row" style="display:table-row">
+  <td class="cmc-table__cell cmc-table__cell--sticky cmc-table__cell--left">
+   <div class="">
+    Feb 25, 2020
+   </div>
+  </td>
+  <td class="cmc-table__cell cmc-table__cell--right">
+   <div class="">
+    9,651.31
+   </div>
+  </td>
+  <td class="cmc-table__cell cmc-table__cell--right">
+   <div class="">
+    9,652.74
+   </div>
+  </td>
+  <td class="cmc-table__cell cmc-table__cell--right">
+   <div class="">
+    9,305.02
+   </div>
+  </td>
+  <td class="cmc-table__cell cmc-table__cell--right">
+   <div class="">
+    9,341.71
+   </div>
+  </td>
+  <td class="cmc-table__cell cmc-table__cell--right">
+   <div class="">
+    42,515,259,129
+   </div>
+  </td>
+  <td class="cmc-table__cell cmc-table__cell--right">
+   <div class="">
+    170,369,581,558
+   </div>
+  </td>
+ </tr>
+ <tr class="cmc-table-row" style="display:table-row">
+  <td class="cmc-table__cell cmc-table__cell--sticky cmc-table__cell--left">
+   <div class="">
+    Feb 24, 2020
+   </div>
+  </td>
+  <td class="cmc-table__cell cmc-table__cell--right">
+   <div class="">
+    9,921.58
+   </div>
+  </td>
+  <td class="cmc-table__cell cmc-table__cell--right">
+   <div class="">
+    9,951.75
+   </div>
+  </td>
+  <td class="cmc-table__cell cmc-table__cell--right">
+   <div class="">
+    9,537.04
+   </div>
+  </td>
+  <td class="cmc-table__cell cmc-table__cell--right">
+   <div class="">
+    9,650.17
+   </div>
+  </td>
+  <td class="cmc-table__cell cmc-table__cell--right">
+   <div class="">
+    45,080,496,648
+   </div>
+  </td>
+  <td class="cmc-table__cell cmc-table__cell--right">
+   <div class="">
+    175,977,808,526
+   </div>
+  </td>
+ </tr>
+ <tr class="cmc-table-row" style="display:table-row">
+  <td class="cmc-table__cell cmc-table__cell--sticky cmc-table__cell--left">
+   <div class="">
+    Feb 23, 2020
+   </div>
+  </td>
+  <td class="cmc-table__cell cmc-table__cell--right">
+   <div class="">
+    9,663.32
+   </div>
+  </td>
+  <td class="cmc-table__cell cmc-table__cell--right">
+   <div class="">
+    9,937.40
+   </div>
+  </td>
+  <td class="cmc-table__cell cmc-table__cell--right">
+   <div class="">
+    9,657.79
+   </div>
+  </td>
+  <td class="cmc-table__cell cmc-table__cell--right">
+   <div class="">
+    9,924.52
+   </div>
+  </td>
+  <td class="cmc-table__cell cmc-table__cell--right">
+   <div class="">
+    41,185,185,761
+   </div>
+  </td>
+  <td class="cmc-table__cell cmc-table__cell--right">
+   <div class="">
+    180,963,233,540
+   </div>
+  </td>
+ </tr>
+ <tr class="cmc-table-row" style="display:table-row">
+  <td class="cmc-table__cell cmc-table__cell--sticky cmc-table__cell--left">
+   <div class="">
+    Feb 22, 2020
+   </div>
+  </td>
+  <td class="cmc-table__cell cmc-table__cell--right">
+   <div class="">
+    9,687.71
+   </div>
+  </td>
+  <td class="cmc-table__cell cmc-table__cell--right">
+   <div class="">
+    9,698.23
+   </div>
+  </td>
+  <td class="cmc-table__cell cmc-table__cell--right">
+   <div class="">
+    9,600.73
+   </div>
+  </td>
+  <td class="cmc-table__cell cmc-table__cell--right">
+   <div class="">
+    9,663.18
+   </div>
+  </td>
+  <td class="cmc-table__cell cmc-table__cell--right">
+   <div class="">
+    35,838,025,154
+   </div>
+  </td>
+  <td class="cmc-table__cell cmc-table__cell--right">
+   <div class="">
+    176,180,696,548
+   </div>
+  </td>
+ </tr>
+ <tr class="cmc-table-row" style="display:table-row">
+  <td class="cmc-table__cell cmc-table__cell--sticky cmc-table__cell--left">
+   <div class="">
+    Feb 21, 2020
+   </div>
+  </td>
+  <td class="cmc-table__cell cmc-table__cell--right">
+   <div class="">
+    9,611.78
+   </div>
+  </td>
+  <td class="cmc-table__cell cmc-table__cell--right">
+   <div class="">
+    9,723.01
+   </div>
+  </td>
+  <td class="cmc-table__cell cmc-table__cell--right">
+   <div class="">
+    9,589.74
+   </div>
+  </td>
+  <td class="cmc-table__cell cmc-table__cell--right">
+   <div class="">
+    9,686.44
+   </div>
+  </td>
+  <td class="cmc-table__cell cmc-table__cell--right">
+   <div class="">
+    40,930,547,513
+   </div>
+  </td>
+  <td class="cmc-table__cell cmc-table__cell--right">
+   <div class="">
+    176,587,087,363
+   </div>
+  </td>
+ </tr>
+ <tr class="cmc-table-row" style="display:table-row">
+  <td class="cmc-table__cell cmc-table__cell--sticky cmc-table__cell--left">
+   <div class="">
+    Feb 20, 2020
+   </div>
+  </td>
+  <td class="cmc-table__cell cmc-table__cell--right">
+   <div class="">
+    9,629.33
+   </div>
+  </td>
+  <td class="cmc-table__cell cmc-table__cell--right">
+   <div class="">
+    9,643.22
+   </div>
+  </td>
+  <td class="cmc-table__cell cmc-table__cell--right">
+   <div class="">
+    9,507.90
+   </div>
+  </td>
+  <td class="cmc-table__cell cmc-table__cell--right">
+   <div class="">
+    9,608.48
+   </div>
+  </td>
+  <td class="cmc-table__cell cmc-table__cell--right">
+   <div class="">
+    44,925,260,237
+   </div>
+  </td>
+  <td class="cmc-table__cell cmc-table__cell--right">
+   <div class="">
+    175,147,142,158
+   </div>
+  </td>
+ </tr>
+ <tr class="cmc-table-row" style="display:table-row">
+  <td class="cmc-table__cell cmc-table__cell--sticky cmc-table__cell--left">
+   <div class="">
+    Feb 19, 2020
+   </div>
+  </td>
+  <td class="cmc-table__cell cmc-table__cell--right">
+   <div class="">
+    10,143.80
+   </div>
+  </td>
+  <td class="cmc-table__cell cmc-table__cell--right">
+   <div class="">
+    10,191.68
+   </div>
+  </td>
+  <td class="cmc-table__cell cmc-table__cell--right">
+   <div class="">
+    9,611.22
+   </div>
+  </td>
+  <td class="cmc-table__cell cmc-table__cell--right">
+   <div class="">
+    9,633.39
+   </div>
+  </td>
+  <td class="cmc-table__cell cmc-table__cell--right">
+   <div class="">
+    46,992,019,710
+   </div>
+  </td>
+  <td class="cmc-table__cell cmc-table__cell--right">
+   <div class="">
+    175,585,931,679
+   </div>
+  </td>
+ </tr>
+ <tr class="cmc-table-row" style="display:table-row">
+  <td class="cmc-table__cell cmc-table__cell--sticky cmc-table__cell--left">
+   <div class="">
+    Feb 18, 2020
+   </div>
+  </td>
+  <td class="cmc-table__cell cmc-table__cell--right">
+   <div class="">
+    9,691.23
+   </div>
+  </td>
+  <td class="cmc-table__cell cmc-table__cell--right">
+   <div class="">
+    10,161.94
+   </div>
+  </td>
+  <td class="cmc-table__cell cmc-table__cell--right">
+   <div class="">
+    9,632.38
+   </div>
+  </td>
+  <td class="cmc-table__cell cmc-table__cell--right">
+   <div class="">
+    10,142.00
+   </div>
+  </td>
+  <td class="cmc-table__cell cmc-table__cell--right">
+   <div class="">
+    47,271,023,953
+   </div>
+  </td>
+  <td class="cmc-table__cell cmc-table__cell--right">
+   <div class="">
+    184,838,512,656
+   </div>
+  </td>
+ </tr>
+ <tr class="cmc-table-row" style="display:table-row">
+  <td class="cmc-table__cell cmc-table__cell--sticky cmc-table__cell--left">
+   <div class="">
+    Feb 17, 2020
+   </div>
+  </td>
+  <td class="cmc-table__cell cmc-table__cell--right">
+   <div class="">
+    9,936.56
+   </div>
+  </td>
+  <td class="cmc-table__cell cmc-table__cell--right">
+   <div class="">
+    9,938.82
+   </div>
+  </td>
+  <td class="cmc-table__cell cmc-table__cell--right">
+   <div class="">
+    9,507.64
+   </div>
+  </td>
+  <td class="cmc-table__cell cmc-table__cell--right">
+   <div class="">
+    9,690.14
+   </div>
+  </td>
+  <td class="cmc-table__cell cmc-table__cell--right">
+   <div class="">
+    45,998,298,413
+   </div>
+  </td>
+  <td class="cmc-table__cell cmc-table__cell--right">
+   <div class="">
+    176,585,280,987
+   </div>
+  </td>
+ </tr>
+ <tr class="cmc-table-row" style="display:table-row">
+  <td class="cmc-table__cell cmc-table__cell--sticky cmc-table__cell--left">
+   <div class="">
+    Feb 16, 2020
+   </div>
+  </td>
+  <td class="cmc-table__cell cmc-table__cell--right">
+   <div class="">
+    9,889.18
+   </div>
+  </td>
+  <td class="cmc-table__cell cmc-table__cell--right">
+   <div class="">
+    10,053.97
+   </div>
+  </td>
+  <td class="cmc-table__cell cmc-table__cell--right">
+   <div class="">
+    9,722.39
+   </div>
+  </td>
+  <td class="cmc-table__cell cmc-table__cell--right">
+   <div class="">
+    9,934.43
+   </div>
+  </td>
+  <td class="cmc-table__cell cmc-table__cell--right">
+   <div class="">
+    43,374,780,305
+   </div>
+  </td>
+  <td class="cmc-table__cell cmc-table__cell--right">
+   <div class="">
+    181,017,665,264
+   </div>
+  </td>
+ </tr>
+ <tr class="cmc-table-row" style="display:table-row">
+  <td class="cmc-table__cell cmc-table__cell--sticky cmc-table__cell--left">
+   <div class="">
+    Feb 15, 2020
+   </div>
+  </td>
+  <td class="cmc-table__cell cmc-table__cell--right">
+   <div class="">
+    10,313.86
+   </div>
+  </td>
+  <td class="cmc-table__cell cmc-table__cell--right">
+   <div class="">
+    10,341.56
+   </div>
+  </td>
+  <td class="cmc-table__cell cmc-table__cell--right">
+   <div class="">
+    9,874.43
+   </div>
+  </td>
+  <td class="cmc-table__cell cmc-table__cell--right">
+   <div class="">
+    9,889.42
+   </div>
+  </td>
+  <td class="cmc-table__cell cmc-table__cell--right">
+   <div class="">
+    43,865,054,831
+   </div>
+  </td>
+  <td class="cmc-table__cell cmc-table__cell--right">
+   <div class="">
+    180,179,996,219
+   </div>
+  </td>
+ </tr>
+ <tr class="cmc-table-row" style="display:table-row">
+  <td class="cmc-table__cell cmc-table__cell--sticky cmc-table__cell--left">
+   <div class="">
+    Feb 14, 2020
+   </div>
+  </td>
+  <td class="cmc-table__cell cmc-table__cell--right">
+   <div class="">
+    10,211.55
+   </div>
+  </td>
+  <td class="cmc-table__cell cmc-table__cell--right">
+   <div class="">
+    10,322.00
+   </div>
+  </td>
+  <td class="cmc-table__cell cmc-table__cell--right">
+   <div class="">
+    10,125.53
+   </div>
+  </td>
+  <td class="cmc-table__cell cmc-table__cell--right">
+   <div class="">
+    10,312.12
+   </div>
+  </td>
+  <td class="cmc-table__cell cmc-table__cell--right">
+   <div class="">
+    43,338,264,162
+   </div>
+  </td>
+  <td class="cmc-table__cell cmc-table__cell--right">
+   <div class="">
+    187,862,645,449
+   </div>
+  </td>
+ </tr>
+ <tr class="cmc-table-row" style="display:table-row">
+  <td class="cmc-table__cell cmc-table__cell--sticky cmc-table__cell--left">
+   <div class="">
+    Feb 13, 2020
+   </div>
+  </td>
+  <td class="cmc-table__cell cmc-table__cell--right">
+   <div class="">
+    10,323.96
+   </div>
+  </td>
+  <td class="cmc-table__cell cmc-table__cell--right">
+   <div class="">
+    10,457.63
+   </div>
+  </td>
+  <td class="cmc-table__cell cmc-table__cell--right">
+   <div class="">
+    10,116.16
+   </div>
+  </td>
+  <td class="cmc-table__cell cmc-table__cell--right">
+   <div class="">
+    10,214.38
+   </div>
+  </td>
+  <td class="cmc-table__cell cmc-table__cell--right">
+   <div class="">
+    49,356,071,373
+   </div>
+  </td>
+  <td class="cmc-table__cell cmc-table__cell--right">
+   <div class="">
+    186,065,003,526
+   </div>
+  </td>
+ </tr>
+ <tr class="cmc-table-row" style="display:table-row">
+  <td class="cmc-table__cell cmc-table__cell--sticky cmc-table__cell--left">
+   <div class="">
+    Feb 12, 2020
+   </div>
+  </td>
+  <td class="cmc-table__cell cmc-table__cell--right">
+   <div class="">
+    10,202.39
+   </div>
+  </td>
+  <td class="cmc-table__cell cmc-table__cell--right">
+   <div class="">
+    10,393.61
+   </div>
+  </td>
+  <td class="cmc-table__cell cmc-table__cell--right">
+   <div class="">
+    10,202.39
+   </div>
+  </td>
+  <td class="cmc-table__cell cmc-table__cell--right">
+   <div class="">
+    10,326.05
+   </div>
+  </td>
+  <td class="cmc-table__cell cmc-table__cell--right">
+   <div class="">
+    43,444,303,830
+   </div>
+  </td>
+  <td class="cmc-table__cell cmc-table__cell--right">
+   <div class="">
+    188,081,204,386
+   </div>
+  </td>
+ </tr>
+ <tr class="cmc-table-row" style="display:table-row">
+  <td class="cmc-table__cell cmc-table__cell--sticky cmc-table__cell--left">
+   <div class="">
+    Feb 11, 2020
+   </div>
+  </td>
+  <td class="cmc-table__cell cmc-table__cell--right">
+   <div class="">
+    9,855.89
+   </div>
+  </td>
+  <td class="cmc-table__cell cmc-table__cell--right">
+   <div class="">
+    10,210.05
+   </div>
+  </td>
+  <td class="cmc-table__cell cmc-table__cell--right">
+   <div class="">
+    9,729.33
+   </div>
+  </td>
+  <td class="cmc-table__cell cmc-table__cell--right">
+   <div class="">
+    10,208.24
+   </div>
+  </td>
+  <td class="cmc-table__cell cmc-table__cell--right">
+   <div class="">
+    37,648,059,389
+   </div>
+  </td>
+  <td class="cmc-table__cell cmc-table__cell--right">
+   <div class="">
+    185,917,114,989
+   </div>
+  </td>
+ </tr>
+</tbody>
