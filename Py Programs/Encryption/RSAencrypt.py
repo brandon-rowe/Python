@@ -1,4 +1,4 @@
-# ch9_encrypt_blob.py
+# RSAencrypt.py
 from Cryptodome.PublicKey import RSA
 from Cryptodome.Cipher import PKCS1_OAEP
 import zlib
