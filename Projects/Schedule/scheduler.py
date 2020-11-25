@@ -1,11 +1,9 @@
-import time
-import datetime
-import calendar
 from datetime import date
 from datetime import datetime
 
+#replace main with GUI 
 def main():
-    choice = str(input("Are you clocking In (Ii) or Out (Oo)?"))
+    choice = str(input("Are you clocking In (Ii), Out (Oo) or Viewing (Vv)?"))
     if choice == "I":
         writeIn()
     elif choice == "i":
@@ -14,6 +12,10 @@ def main():
         writeOut()
     elif choice == "o":
         writeOut()
+    elif choice == "V":
+        readFies()
+    elif choice == "v":
+        readFiles()
     else:
         main()
 
@@ -24,18 +26,11 @@ def readFiles():
         print(line)
     readFile.close()
 
-#def enterFiles():
-#    orderNum = str(input("Order number: "))
-#    custName = str(input("Customer name: "))
-#    shipVia = str(input("Ship via: "))
-#    orderDate = str(input("Order entry date: "))
-#    print(orderNum, custName, shipVia, orderDate)
-#    writeFile(orderNum, custName, shipVia, orderDate)
-
 def writeOut():
     dateTimeObj = datetime.now()
-    timestampStr = dateTimeObj.strftime("%d-%b-%Y (%H:%M:%S.%f)")
-    outfile = "Clocked out at " + timestampStr
+    timestampStr = dateTimeObj.strftime("(%H:%M:%S.%f)")
+    datestampStr = dateTimeObj.strftime("%d-%b-%Y")
+    outfile = "Clocked out at " + timestampStr + " on " + datestampStr
     writeFile = open("file.txt", 'a+')
     writeFile.write("\n")
     writeFile.write(outfile)
@@ -46,7 +41,7 @@ def writeIn():
     dateTimeObj = datetime.now()
     timestampStr = dateTimeObj.strftime("(%H:%M:%S.%f)")
     datestampStr = dateTimeObj.strftime("%d-%b-%Y")
-    outfile = "Clocked in at " + timestampStr
+    outfile = "Clocked in at " + timestampStr + " on " + datestampStr
     writeFile = open("file.txt", 'a+')
     writeFile.write("\n")
     writeFile.write(outfile)
