@@ -3,21 +3,38 @@ from datetime import datetime
 
 #replace main with GUI 
 def main():
-    choice = str(input("Are you clocking In (Ii), Out (Oo) or Viewing (Vv)?"))
-    if choice == "I":
-        writeIn()
-    elif choice == "i":
-        writeIn()
-    elif choice == "O":
-        writeOut()
-    elif choice == "o":
-        writeOut()
-    elif choice == "V":
-        readFies()
-    elif choice == "v":
-        readFiles()
+    choice = str(input("Is this for work (Ww) or personal (Pp)?"))
+    if ((choice == "W") or (choice == "w")):
+        work()
+    elif ((choice == "P") or (choice == "p")):
+        personal()
     else:
         main()
+
+def work():
+    choice = str(input("Are you clocking In (Ii), Out (Oo) or Viewing (Vv)?"))
+    if ((choice == "I") or (choice == "i")):
+        writeIn()
+    elif ((choice == "O") or (choice == "o")):
+        writeOut()
+    elif ((choice == "V") or (choice == "v")):
+        readFiles()
+    else:
+        work()
+
+#figuring out what to do with personal
+#want to add section to account for all time
+#will probably reconfigure code for purpose
+def personal():
+    choice = str(input("Are you clocking In (Ii), Out (Oo) or Viewing (Vv)?"))
+    if ((choice == "I") or (choice == "i")):
+        writeIn()
+    elif ((choice == "O") or (choice == "o")):
+        writeOut()
+    elif ((choice == "V") or (choice == "v")):
+        readFiles()
+    else:
+        work()
 
 def readFiles():
     readFile = open("file.txt", 'r')

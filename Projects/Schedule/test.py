@@ -10,9 +10,6 @@ def main():
 
 main()
 
-    #num = 5
-    #for x in range(num):
-
 
 
 # date object of today's date
