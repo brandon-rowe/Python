@@ -3,7 +3,8 @@ I finally decide to track my time.
 This will lead into a larger project about saving time in life.
 
 
-Clocked in at (22:40:33.269640) on 24-Nov-2020
-Clocked out at (23:03:42.581323) on 24-Nov-2020
-Clocked in at (23:16:11.708939) on 24-Nov-2020
-Clocked out at (23:16:20.636606) on 24-Nov-2020
+
+Clocked In	 DATE: 24-Nov-2020 	Time: 22:40:33.269640   Task: Python Scheduler
+Clocked Out	 DATE: 24-Nov-2020 	Time: 23:44:57.172820   Task: Python Scheduler
+Clocked In	 DATE: 26-Nov-2020 	Time: 12:22:42.998369 	Task: Python Scheduler
+Clocked Out	 DATE: 26-Nov-2020 	Time: 12:23:23.981068 	Task: Python Scheduler
