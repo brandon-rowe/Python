@@ -1,0 +1,7 @@
+https://docs.python-guide.org/scenarios/gui/
+
+https://kivy.org/#home
+
+https://github.com/BattleBas/kivy-vscode/issues/25
+
+https://kivy.org/doc/stable/gettingstarted/installation.html

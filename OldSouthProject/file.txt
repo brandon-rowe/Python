@@ -1,0 +1,10 @@
+Order Number	Customer Name		Ship Via	Order Entry	
+
+0001		CDI			Fx		11-6
+0002		CMD			UPS		11-6
+0003		MCMI			FX		11-6
+0004		CDI			UPS		11-6
+0005		CMD			Fx		11-7
+0006		MCMI			UPS		11-7
+0007		CDI			UPS		11-8
+0008		CMD			UPS		11-8
