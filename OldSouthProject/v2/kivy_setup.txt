@@ -1,0 +1,6 @@
+python -m pip install --upgrade pip setuptools virtualenv
+
+1. Create the virtual environment named kivy_venv in your current directory:
+	python -m virtualenv kivy_venv
+2. Activate the virtual environment. You will have to do this step from the current directory every time you start a new terminal. This sets up the environment so the new kivy_venv Python is used.
+	source kivy_venv/bin/activate
